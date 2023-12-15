@@ -1,5 +1,9 @@
 # Contact Management App
 
+Your tasks is to develop a contact management api application for users that want to remotely store their contacts list
+
+## Features
+
 Users should be able to:
 - Sign up
 - Sign in and out
@@ -14,6 +18,11 @@ Users should be able to:
 - Upload contact image
 - Export all contacts in form of a csv file
 - Import contacts from csv
-- View a dashboard showing the number of contacts, number of male contact, number of female contacts, number of favourites
+- Get dashboard data showing the number of contacts, number of male contact, number of female contacts, number of favourites
 - Share contact through email, whatsapp etc.
 - Download contact in vcf format.
+
+
+## Submission
+- Deploy your solution to a cloud provider.
+- Share the url on submission

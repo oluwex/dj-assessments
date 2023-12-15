@@ -1,5 +1,8 @@
 # Notes App
 
+Your tasks is to develop an online journaling or notes api application for users that want to have access to their notes on the go.
+
+## Features
 Users should be able to:
 - Sign up
 - Sign in and out
@@ -15,3 +18,8 @@ Users should be able to:
 - Share note by link. 
     - Link can be set with permissions e.g view only or view and edit.
     - Can set passcode for links. Passcode will be required for whoever tries to access a passcoded link.
+
+
+## Submission
+- Deploy your solution to a cloud provider.
+- Share the url on submission

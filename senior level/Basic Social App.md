@@ -1,7 +1,9 @@
 # Basic Social Media App
 
-Build a social networking application where a user join a group. A closed group is a group that cannot be accessed unless a request is made to the admin. An open group can be freely accessed.
+Your task is to develop a social networking application where a user join a group. A closed group is a group that cannot be accessed unless a request is made to the admin. An open group can be freely accessed.
 
+
+## Features
 Users should be able to do the following:
 - Sign up
 - Sign in and out
@@ -28,3 +30,8 @@ Users should be able to do the following:
 - Admin should be able to create polls, edit polls before start date, view poll result summary
 - Members should be able to take polls. Suspended member are exempted from polls
 - Members should be able to view poll result summary after poll has ended.
+
+
+## Submission
+- Deploy your solution to a cloud provider.
+- Share the url on submission
